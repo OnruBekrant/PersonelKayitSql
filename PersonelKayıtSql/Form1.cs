@@ -126,6 +126,7 @@ namespace PersonelKayıtSql
         private void btntemizle_Click(object sender, EventArgs e)
         {
             temizle();
+
         }
     }
 }
