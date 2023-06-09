@@ -21,6 +21,15 @@ Proje Ekran görüntüsü:
 
 
 Veritabanı Tablosu:
+
+
+
+
+
+
+
+
+
 ![Ekran görüntüsü 2023-06-09 114403](https://github.com/OnruBekrant/PersonelKay-tSql/assets/95904801/4379e081-7e16-4c3e-b3bb-f67460cb1660)
 
 
